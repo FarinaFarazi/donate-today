@@ -1,0 +1,199 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+    margin: 0;
+    color: white;
+
+    
+}
+.top-banner p{
+    font-size: 20px;
+    margin-bottom: 50px;
+    color: white;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+  
+
+  
+}
+.top-banner{
+    text-align: center;
+    padding-top: 150px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    margin-bottom: 150px;
+}
+.donate-box h2{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+
+}
+.donate-box p{
+    font-size: 20px;
+    text-align: center;
+}
+li{
+    list-style: none;
+    font-size: 30px;
+    font-weight: 900;
+    color: gray;
+    background-color: rgba(245, 245, 237, 0.574);
+    height: 80px;
+    width: 150px;
+    margin: 20px;
+    text-align:center ;
+    padding-top: 40px;
+    border-radius: 5px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+#tk{
+    color: tomato;
+    border: 2px solid tomato;
+    background-color: rgba(243, 199, 192, 0.737);
+}
+.donate-box{
+   text-align: center;
+   margin-bottom: 150px;
+}
+.donate-box hr{
+    margin-bottom: 50px;
+}
+.donate-box p{
+    color: gray;
+}
+.first-sec h2{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+.first-sec p{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.donate{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 150px;
+}
+
+.food-box{
+    background-color: rgba(204, 236, 236, 0.479);
+    padding: 40px;
+    border-radius: 5px;
+   
+    
+}
+.shelter-box{
+    background-color: rgba(255, 209, 217, 0.375);
+    padding: 40px;
+    border-radius: 5px;
+}
+.education-box{
+    background-color: rgba(255, 242, 226, 0.712);
+    padding: 40px;
+    border-radius: 5px;
+}
+.third-banner{
+    display: flex;
+    margin-bottom: 200px;
+}
+.half-width{
+    width:50%;
+    padding-left:150px;
+}
+.third-banner h2{
+    font-size: 50px;
+    font-weight: 900;
+}
+.third-banner p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 80%;
+
+}
+.forth-banner{
+    display: flex;
+    margin-bottom: 200px;
+}
+#second-donate{
+    padding-right: 150px;
+}
+.forth-banner h2{
+    font-size: 50px;
+    font-weight: 900;
+}
+.forth-banner p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.forth-banner img{
+    width:90%;
+}
+.fifth-banner h2{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+.fifth-banner p{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.email-button{
+    text-decoration: none;
+    background-color: rgba(188, 187, 187, 0.563);
+    padding:18px 200px;
+    color: gray;
+    text-align: left;
+    margin-right: 0%;
+}
+input{ 
+    padding:20px 100px ;
+    background-color: rgba(213, 211, 211, 0.786);
+}
+.form{
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.71);
+   margin-bottom: 200px;
+   height: 150px;
+   padding-top: 100px;
+   margin-left: 250px;
+   margin-right: 250px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+}
+footer h2{
+    font-size: 50px;
+    font-weight: 900;
+    color: tomato;
+    padding-top: 30px;
+}
+footer h4{
+    color: white;
+}
