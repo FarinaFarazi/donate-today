@@ -93,11 +93,12 @@ ul{
 }
 .donate{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     margin-bottom: 150px;
 }
 
 .food-box{
+    margin: 10px;
     background-color: rgba(204, 236, 236, 0.479);
     padding: 40px;
     border-radius: 5px;
@@ -105,11 +106,13 @@ ul{
     
 }
 .shelter-box{
+    margin: 10px;
     background-color: rgba(255, 209, 217, 0.375);
     padding: 40px;
     border-radius: 5px;
 }
 .education-box{
+    margin: 10px;
     background-color: rgba(255, 242, 226, 0.712);
     padding: 40px;
     border-radius: 5px;
